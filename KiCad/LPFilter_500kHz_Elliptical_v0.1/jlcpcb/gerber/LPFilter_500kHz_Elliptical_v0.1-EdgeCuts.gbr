@@ -1,0 +1,25 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.3*%
+%TF.CreationDate,2026-06-27T17:09:46+08:00*%
+%TF.ProjectId,LPFilter_500kHz_Elliptical_v0.1,4c504669-6c74-4657-925f-3530306b487a,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.3) date 2026-06-27 17:09:46*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+%TO.C,Aluminum Box*%
+D10*
+X71500000Y-34250000D02*
+X148500000Y-34250000D01*
+X148500000Y-55750000D01*
+X71500000Y-55750000D01*
+X71500000Y-34250000D01*
+%TD*%
+M02*

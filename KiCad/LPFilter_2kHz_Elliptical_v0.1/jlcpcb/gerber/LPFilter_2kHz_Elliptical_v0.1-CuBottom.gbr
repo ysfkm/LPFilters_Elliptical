@@ -1,0 +1,56 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.3*%
+%TF.CreationDate,2026-06-27T16:59:53+08:00*%
+%TF.ProjectId,LPFilter_2kHz_Elliptical_v0.1,4c504669-6c74-4657-925f-326b487a5f45,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L4,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.3) date 2026-06-27 16:59:53*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,1.600000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11C,2.600965*%
+%TD*%
+%TA.AperFunction,ViaPad*%
+%ADD12C,0.500000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J1,1,OUT_1*%
+%TO.N,Net-(J1-OUT)*%
+X82525019Y-44750000D03*
+%TO.P,J1,2,2_2*%
+%TO.N,GNDA*%
+X82525019Y-47250127D03*
+D11*
+%TO.P,J1,3,3_3*%
+X77474981Y-49800038D03*
+%TO.P,J1,4,4_4*%
+X77474981Y-39699962D03*
+%TD*%
+D10*
+%TO.P,J2,1,OUT_1*%
+%TO.N,Net-(J2-OUT)*%
+X137474981Y-44750000D03*
+%TO.P,J2,2,2_2*%
+%TO.N,GNDA*%
+X137474981Y-42249873D03*
+D11*
+%TO.P,J2,3,3_3*%
+X142525019Y-39699962D03*
+%TO.P,J2,4,4_4*%
+X142525019Y-49800038D03*
+%TD*%
+D12*
+%TO.N,GNDA*%
+X129500000Y-40500000D03*
+X109500000Y-47000000D03*
+X91500000Y-47500000D03*
+%TD*%
+M02*

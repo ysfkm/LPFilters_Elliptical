@@ -1,0 +1,94 @@
+Title: g:\Shared drives\IAMSYbElectronics\Projects\LPFilters_Elliptical_Mike\_sim\2kHz.cir
+Date: Wed Jun 10 21:10:09 2026
+Plotname: Operating Point
+Flags: real
+No. Variables: 42
+No. Points:            1
+Offset:    0.0000000000000000e+00
+Command: Linear Technology Corporation LTspice
+Variables:
+	0	V(n001)	voltage
+	1	V(n002)	voltage
+	2	V(n003)	voltage
+	3	V(n004)	voltage
+	4	V(p001)	voltage
+	5	V(p002)	voltage
+	6	V(vout1)	voltage
+	7	V(vout2)	voltage
+	8	V(vout3)	voltage
+	9	I(C1)	device_current
+	10	I(C10)	device_current
+	11	I(C2)	device_current
+	12	I(C3)	device_current
+	13	I(C4)	device_current
+	14	I(C5)	device_current
+	15	I(C6)	device_current
+	16	I(C7)	device_current
+	17	I(C8)	device_current
+	18	I(C9)	device_current
+	19	I(Cp1)	device_current
+	20	I(Cp2)	device_current
+	21	I(Cp3)	device_current
+	22	I(Cp4)	device_current
+	23	I(Cp5)	device_current
+	24	I(L1)	device_current
+	25	I(L2)	device_current
+	26	I(L3)	device_current
+	27	I(L4)	device_current
+	28	I(Lp1)	device_current
+	29	I(Lp2)	device_current
+	30	I(RL)	device_current
+	31	I(RL1)	device_current
+	32	I(RLp)	device_current
+	33	I(Vin)	device_current
+	34	I(Vin1)	device_current
+	35	I(Vin2)	device_current
+	36	L1:flux	voltage
+	37	L2:flux	voltage
+	38	L3:flux	voltage
+	39	L4:flux	voltage
+	40	Lp1:flux	voltage
+	41	Lp2:flux	voltage
+Values:
+0		0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00

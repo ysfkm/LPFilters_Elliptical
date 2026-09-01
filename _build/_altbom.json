@@ -1,0 +1,1877 @@
+{
+ "plan": {
+  "L1": null,
+  "L2": null,
+  "C1": "0603",
+  "C2": "0603",
+  "C3": "0603",
+  "C4": "0603",
+  "C5": "0603"
+ },
+ "scores": {
+  "L1": [],
+  "L2": [],
+  "C1": [
+   [
+    "0603",
+    10,
+    10,
+    9351350
+   ],
+   [
+    "0805",
+    9,
+    9,
+    2624314
+   ],
+   [
+    "0402",
+    6,
+    7,
+    7547755
+   ],
+   [
+    "1206",
+    2,
+    4,
+    798216
+   ],
+   [
+    "1812",
+    0,
+    0,
+    212382
+   ],
+   [
+    "1210",
+    0,
+    0,
+    147634
+   ],
+   [
+    "0201",
+    0,
+    0,
+    135269
+   ],
+   [
+    "2220",
+    0,
+    0,
+    35846
+   ]
+  ],
+  "C2": [
+   [
+    "0603",
+    10,
+    10,
+    5146921
+   ],
+   [
+    "0805",
+    10,
+    10,
+    2219788
+   ],
+   [
+    "0402",
+    7,
+    9,
+    7815960
+   ],
+   [
+    "1206",
+    0,
+    2,
+    518969
+   ],
+   [
+    "0201",
+    0,
+    0,
+    209816
+   ],
+   [
+    "1812",
+    0,
+    0,
+    204583
+   ],
+   [
+    "1210",
+    0,
+    0,
+    60519
+   ],
+   [
+    "2220",
+    0,
+    0,
+    17594
+   ]
+  ],
+  "C3": [
+   [
+    "0603",
+    10,
+    10,
+    34069949
+   ],
+   [
+    "0805",
+    9,
+    9,
+    11489956
+   ],
+   [
+    "0402",
+    6,
+    6,
+    22679762
+   ],
+   [
+    "1206",
+    5,
+    6,
+    2481115
+   ],
+   [
+    "0201",
+    0,
+    0,
+    2561994
+   ],
+   [
+    "1210",
+    0,
+    0,
+    257268
+   ],
+   [
+    "1812",
+    0,
+    0,
+    171546
+   ],
+   [
+    "2220",
+    0,
+    0,
+    46132
+   ]
+  ],
+  "C4": [
+   [
+    "0603",
+    10,
+    10,
+    35618315
+   ],
+   [
+    "0805",
+    10,
+    10,
+    11235792
+   ],
+   [
+    "0402",
+    7,
+    8,
+    27178554
+   ],
+   [
+    "1206",
+    4,
+    5,
+    3183555
+   ],
+   [
+    "0201",
+    0,
+    0,
+    3818624
+   ],
+   [
+    "1812",
+    0,
+    0,
+    348623
+   ],
+   [
+    "1210",
+    0,
+    0,
+    250093
+   ],
+   [
+    "2220",
+    0,
+    0,
+    21733
+   ]
+  ],
+  "C5": [
+   [
+    "0603",
+    10,
+    10,
+    34203584
+   ],
+   [
+    "0805",
+    9,
+    9,
+    10913862
+   ],
+   [
+    "0402",
+    6,
+    7,
+    24288375
+   ],
+   [
+    "1206",
+    4,
+    5,
+    1424466
+   ],
+   [
+    "1210",
+    0,
+    0,
+    268584
+   ],
+   [
+    "1812",
+    0,
+    0,
+    209970
+   ],
+   [
+    "0201",
+    0,
+    0,
+    183547
+   ],
+   [
+    "2220",
+    0,
+    0,
+    37322
+   ]
+  ]
+ },
+ "altbom": {
+  "1kHz|L1": {
+   "chosen_fp": "SMD,18.8x15.5mm",
+   "orig_fp": "SMD,18.8x15.5mm",
+   "value": "10mH",
+   "orig_part": "C19632966",
+   "pick": {
+    "code": "C19632966",
+    "lib": "Extended",
+    "footprint": "SMD,18.8x15.5mm",
+    "value": "10mH",
+    "diel": null,
+    "volt": null,
+    "stock": 769,
+    "brand": "YJYCOIN",
+    "mpn": "YPO5022-103M",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "2kHz|L1": {
+   "chosen_fp": "SMD,8x8mm",
+   "orig_fp": "SMD,8x8mm",
+   "value": "4.7mH",
+   "orig_part": "C2903126",
+   "pick": {
+    "code": "C2903126",
+    "lib": "Extended",
+    "footprint": "SMD,8x8mm",
+    "value": "4.7mH",
+    "diel": null,
+    "volt": null,
+    "stock": 640,
+    "brand": "KOHERelec",
+    "mpn": "NRSE8065-472M",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "5kHz|L1": {
+   "chosen_fp": "SMD,6x6mm",
+   "orig_fp": "SMD,6x6mm",
+   "value": "2mH",
+   "orig_part": "C18236336",
+   "pick": {
+    "code": "C18236336",
+    "lib": "Extended",
+    "footprint": "SMD,6x6mm",
+    "value": "2mH",
+    "diel": null,
+    "volt": null,
+    "stock": 1637,
+    "brand": "YJYCOIN",
+    "mpn": "YNR6045-202K",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "10kHz|L1": {
+   "chosen_fp": "SMD,6x6mm",
+   "orig_fp": "SMD,6x6mm",
+   "value": "1mH",
+   "orig_part": "C168102",
+   "pick": {
+    "code": "C168102",
+    "lib": "Extended",
+    "footprint": "SMD,6x6mm",
+    "value": "1mH",
+    "diel": null,
+    "volt": null,
+    "stock": 39404,
+    "brand": "cjiang (Changjiang Microelectronics Tech)",
+    "mpn": "FNR6045S102MT",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "20kHz|L1": {
+   "chosen_fp": "SMD,4x4mm",
+   "orig_fp": "SMD,4x4mm",
+   "value": "500uH",
+   "orig_part": "C18236328",
+   "pick": {
+    "code": "C18236328",
+    "lib": "Extended",
+    "footprint": "SMD,4x4mm",
+    "value": "500uH",
+    "diel": null,
+    "volt": null,
+    "stock": 2845,
+    "brand": "YJYCOIN",
+    "mpn": "YNR4030-501M",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "50kHz|L1": {
+   "chosen_fp": "SMD,5x5mm",
+   "orig_fp": "SMD,5x5mm",
+   "value": "200uH",
+   "orig_part": "C167949",
+   "pick": {
+    "code": "C167949",
+    "lib": "Extended",
+    "footprint": "SMD,5x5mm",
+    "value": "200uH",
+    "diel": null,
+    "volt": null,
+    "stock": 2555,
+    "brand": "cjiang (Changjiang Microelectronics Tech)",
+    "mpn": "FNR5020S201MT",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "100kHz|L1": {
+   "chosen_fp": "SMD,6x6mm",
+   "orig_fp": "SMD,6x6mm",
+   "value": "100uH",
+   "orig_part": "C168095",
+   "pick": {
+    "code": "C168095",
+    "lib": "Extended",
+    "footprint": "SMD,6x6mm",
+    "value": "100uH",
+    "diel": null,
+    "volt": null,
+    "stock": 158662,
+    "brand": "cjiang (Changjiang Microelectronics Tech)",
+    "mpn": "FNR6045S101MT",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "200kHz|L1": {
+   "chosen_fp": "SMD,11.5x10mm",
+   "orig_fp": "SMD,11.5x10mm",
+   "value": "47uH",
+   "orig_part": "C149599",
+   "pick": {
+    "code": "C149599",
+    "lib": "Extended",
+    "footprint": "SMD,11.5x10mm",
+    "value": "47uH",
+    "diel": null,
+    "volt": null,
+    "stock": 76936,
+    "brand": "SXN(Shun Xiang Nuo Elec)",
+    "mpn": "SMMS1040-470M",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "500kHz|L1": {
+   "chosen_fp": "SMD,7.1x6.6mm",
+   "orig_fp": "SMD,7.1x6.6mm",
+   "value": "22uH",
+   "orig_part": "C128694",
+   "pick": {
+    "code": "C128694",
+    "lib": "Extended",
+    "footprint": "SMD,7.1x6.6mm",
+    "value": "22uH",
+    "diel": null,
+    "volt": null,
+    "stock": 208625,
+    "brand": "SXN(Shun Xiang Nuo Elec)",
+    "mpn": "SMMS0630-220M",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "1MHz|L1": {
+   "chosen_fp": "SMD,7x6.6mm",
+   "orig_fp": "SMD,7x6.6mm",
+   "value": "10uH",
+   "orig_part": "C167223",
+   "pick": {
+    "code": "C167223",
+    "lib": "Extended",
+    "footprint": "SMD,7x6.6mm",
+    "value": "10uH",
+    "diel": null,
+    "volt": null,
+    "stock": 433766,
+    "brand": "cjiang (Changjiang Microelectronics Tech)",
+    "mpn": "FXL0630-100-M",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "1kHz|L2": {
+   "chosen_fp": "SMD,12x12mm",
+   "orig_fp": "SMD,12x12mm",
+   "value": "8.2mH",
+   "orig_part": "C5278962",
+   "pick": {
+    "code": "C5278962",
+    "lib": "Extended",
+    "footprint": "SMD,12x12mm",
+    "value": "8.2mH",
+    "diel": null,
+    "volt": null,
+    "stock": 399,
+    "brand": "YJYCOIN",
+    "mpn": "YPRH1209-822M",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "2kHz|L2": {
+   "chosen_fp": "SMD,10x10mm",
+   "orig_fp": "SMD,10x10mm",
+   "value": "4mH",
+   "orig_part": "C54426034",
+   "pick": {
+    "code": "C54426034",
+    "lib": "Extended",
+    "footprint": "SMD,10x10mm",
+    "value": "4mH",
+    "diel": null,
+    "volt": null,
+    "stock": 790,
+    "brand": "SOREDE",
+    "mpn": "SNR.1050.TYD402MT00",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "5kHz|L2": {
+   "chosen_fp": "SMD,5.8x5.2mm",
+   "orig_fp": "SMD,5.8x5.2mm",
+   "value": "1.8mH",
+   "orig_part": "C961369",
+   "pick": {
+    "code": "C961369",
+    "lib": "Extended",
+    "footprint": "SMD,5.8x5.2mm",
+    "value": "1.8mH",
+    "diel": null,
+    "volt": null,
+    "stock": 1474,
+    "brand": "Cybermax",
+    "mpn": "CMLF0504-182KTT",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "10kHz|L2": {
+   "chosen_fp": "SMD,6x6mm",
+   "orig_fp": "SMD,6x6mm",
+   "value": "820uH",
+   "orig_part": "C22464216",
+   "pick": {
+    "code": "C22464216",
+    "lib": "Extended",
+    "footprint": "SMD,6x6mm",
+    "value": "820uH",
+    "diel": null,
+    "volt": null,
+    "stock": 1350,
+    "brand": "DDY",
+    "mpn": "SFE6045A-821M-F-HF",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "20kHz|L2": {
+   "chosen_fp": "SMD,12.2x12.2mm",
+   "orig_fp": "SMD,12.2x12.2mm",
+   "value": "390uH",
+   "orig_part": "C5343814",
+   "pick": {
+    "code": "C5343814",
+    "lib": "Extended",
+    "footprint": "SMD,12.2x12.2mm",
+    "value": "390uH",
+    "diel": null,
+    "volt": null,
+    "stock": 1480,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "MS125-391MT",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "50kHz|L2": {
+   "chosen_fp": "SMD-4P,12x12mm",
+   "orig_fp": "SMD-4P,12x12mm",
+   "value": "180uH",
+   "orig_part": "C2455376",
+   "pick": {
+    "code": "C2455376",
+    "lib": "Extended",
+    "footprint": "SMD-4P,12x12mm",
+    "value": "180uH",
+    "diel": null,
+    "volt": null,
+    "stock": 2111,
+    "brand": "Sumida",
+    "mpn": "CDRH127/LDNP-181MC",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "100kHz|L2": {
+   "chosen_fp": "SMD,12x12mm",
+   "orig_fp": "SMD,12x12mm",
+   "value": "82uH",
+   "orig_part": "C2983072",
+   "pick": {
+    "code": "C2983072",
+    "lib": "Extended",
+    "footprint": "SMD,12x12mm",
+    "value": "82uH",
+    "diel": null,
+    "volt": null,
+    "stock": 8525,
+    "brand": "PROD Tech",
+    "mpn": "PSPHAQ127-820M",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "200kHz|L2": {
+   "chosen_fp": "SMD,3x2.1mm",
+   "orig_fp": "SMD,3x2.1mm",
+   "value": "39uH",
+   "orig_part": "C5339362",
+   "pick": {
+    "code": "C5339362",
+    "lib": "Extended",
+    "footprint": "SMD,3x2.1mm",
+    "value": "39uH",
+    "diel": null,
+    "volt": null,
+    "stock": 2997,
+    "brand": "XR",
+    "mpn": "XRCD32-390K",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "500kHz|L2": {
+   "chosen_fp": "SMD,10.5x10.2mm",
+   "orig_fp": "SMD,10.5x10.2mm",
+   "value": "16uH",
+   "orig_part": "C2045615",
+   "pick": {
+    "code": "C2045615",
+    "lib": "Extended",
+    "footprint": "SMD,10.5x10.2mm",
+    "value": "16uH",
+    "diel": null,
+    "volt": null,
+    "stock": 281,
+    "brand": "Wurth Elektronik",
+    "mpn": "7443251600",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "1MHz|L2": {
+   "chosen_fp": "SMD,7x6.6mm",
+   "orig_fp": "SMD,7x6.6mm",
+   "value": "8.2uH",
+   "orig_part": "C167222",
+   "pick": {
+    "code": "C167222",
+    "lib": "Extended",
+    "footprint": "SMD,7x6.6mm",
+    "value": "8.2uH",
+    "diel": null,
+    "volt": null,
+    "stock": 20770,
+    "brand": "cjiang (Changjiang Microelectronics Tech)",
+    "mpn": "FXL0630-8R2-M",
+    "value_delta_pct": 0,
+    "match": "orig"
+   },
+   "kind": "Extended",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "1kHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "0805",
+   "value": "3.3uF",
+   "orig_part": "C16194987",
+   "pick": {
+    "code": "C23630",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "2.2uF ±10% 16V",
+    "diel": "X5R",
+    "volt": 16.0,
+    "stock": 1068410,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10A225KO8NNNC",
+    "value_delta_pct": 33.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "2kHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "1.5uF",
+   "orig_part": "C361193",
+   "pick": {
+    "code": "C15849",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "1uF ±10% 50V",
+    "diel": "X5R",
+    "volt": 50.0,
+    "stock": 5578824,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10A105KB8NNNC",
+    "value_delta_pct": 33.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "5kHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "680nF",
+   "orig_part": "C107067",
+   "pick": {
+    "code": "C1623",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "470nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 350485,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B474KA8NNNC",
+    "value_delta_pct": 30.9,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "10kHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "330nF",
+   "orig_part": "C282682",
+   "pick": {
+    "code": "C21120",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "220nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 400441,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B224KA8NNNC",
+    "value_delta_pct": 33.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "20kHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "180nF",
+   "orig_part": "C519442",
+   "pick": {
+    "code": "C21120",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "220nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 400496,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B224KA8NNNC",
+    "value_delta_pct": 22.2,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "50kHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "1206",
+   "value": "68nF",
+   "orig_part": "C77084",
+   "pick": {
+    "code": "C1622",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "47nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 470082,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B473KB8NNNC",
+    "value_delta_pct": 30.9,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "100kHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "0805",
+   "value": "33nF",
+   "orig_part": "C76628",
+   "pick": {
+    "code": "C21117",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "33nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 283581,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B333KB8NNNC",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": false
+  },
+  "200kHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "1206",
+   "value": "18nF",
+   "orig_part": "C711003",
+   "pick": {
+    "code": "C21122",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "22nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 351563,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B223KB8NNNC",
+    "value_delta_pct": 22.2,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "500kHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "6.8nF",
+   "orig_part": "C162241",
+   "pick": {
+    "code": "C1631",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "6.8nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 324826,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B682K500NT",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "1MHz|C1": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "3.3nF",
+   "orig_part": "C77036",
+   "pick": {
+    "code": "C1613",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "3.3nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 122642,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B332KB8NNNC",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "1kHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "330nF",
+   "orig_part": "C282682",
+   "pick": {
+    "code": "C21120",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "220nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 400441,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B224KA8NNNC",
+    "value_delta_pct": 33.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "2kHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "180nF",
+   "orig_part": "C519442",
+   "pick": {
+    "code": "C21120",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "220nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 400496,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B224KA8NNNC",
+    "value_delta_pct": 22.2,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "5kHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "68nF",
+   "orig_part": "C107098",
+   "pick": {
+    "code": "C1622",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "47nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 470082,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B473KB8NNNC",
+    "value_delta_pct": 30.9,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "10kHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "0805",
+   "value": "33nF",
+   "orig_part": "C76628",
+   "pick": {
+    "code": "C21117",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "33nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 283581,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B333KB8NNNC",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": false
+  },
+  "20kHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "1206",
+   "value": "18nF",
+   "orig_part": "C711003",
+   "pick": {
+    "code": "C21122",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "22nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 351563,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B223KB8NNNC",
+    "value_delta_pct": 22.2,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "50kHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "6.8nF",
+   "orig_part": "C162241",
+   "pick": {
+    "code": "C1631",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "6.8nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 324826,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B682K500NT",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "100kHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "3.6nF",
+   "orig_part": "C710898",
+   "pick": {
+    "code": "C1613",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "3.3nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 122657,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B332KB8NNNC",
+    "value_delta_pct": 8.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "200kHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "0402",
+   "value": "1.8nF",
+   "orig_part": "C385028",
+   "pick": {
+    "code": "C1604",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "2.2nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 1617642,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B222K500NT",
+    "value_delta_pct": 22.2,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "500kHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "680pF",
+   "orig_part": "C30816",
+   "pick": {
+    "code": "C1620",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "470pF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 936681,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B471K500NT",
+    "value_delta_pct": 30.9,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "1MHz|C2": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "360pF",
+   "orig_part": "C20416440",
+   "pick": {
+    "code": "C1664",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "330pF ±5% 50V",
+    "diel": "C0G",
+    "volt": 50.0,
+    "stock": 238952,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10C331JB8NNNC",
+    "value_delta_pct": 8.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "1kHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "1210",
+   "value": "5.6uF",
+   "orig_part": "C5156763",
+   "pick": {
+    "code": "C19666",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "4.7uF ±10% 16V",
+    "diel": "X5R",
+    "volt": 16.0,
+    "stock": 1480685,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10A475KO8NNNC",
+    "value_delta_pct": 16.1,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "2kHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "0805",
+   "value": "3.3uF",
+   "orig_part": "C38332",
+   "pick": {
+    "code": "C23630",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "2.2uF ±10% 16V",
+    "diel": "X5R",
+    "volt": 16.0,
+    "stock": 1068410,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10A225KO8NNNC",
+    "value_delta_pct": 33.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "5kHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "1uF",
+   "orig_part": "C106248",
+   "pick": {
+    "code": "C15849",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "1uF ±10% 50V",
+    "diel": "X5R",
+    "volt": 50.0,
+    "stock": 5578824,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10A105KB8NNNC",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "10kHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "560nF",
+   "orig_part": "C282686",
+   "pick": {
+    "code": "C1623",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "470nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 350485,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B474KA8NNNC",
+    "value_delta_pct": 16.1,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "20kHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "270nF",
+   "orig_part": "C376826",
+   "pick": {
+    "code": "C21120",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "220nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 400496,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B224KA8NNNC",
+    "value_delta_pct": 18.5,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "50kHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "100nF",
+   "orig_part": "C14663",
+   "pick": {
+    "code": "C14663",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "100nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 21530062,
+    "brand": "YAGEO",
+    "mpn": "CC0603KRX7R9BB104",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "100kHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "1206",
+   "value": "56nF",
+   "orig_part": "C441752",
+   "pick": {
+    "code": "C1622",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "47nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 470082,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B473KB8NNNC",
+    "value_delta_pct": 16.1,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "200kHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "1206",
+   "value": "27nF",
+   "orig_part": "C162433",
+   "pick": {
+    "code": "C21122",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "22nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 351563,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B223KB8NNNC",
+    "value_delta_pct": 18.5,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "500kHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "10nF",
+   "orig_part": "C85973",
+   "pick": {
+    "code": "C57112",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "10nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 1041614,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B103K500NT",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "1MHz|C3": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "5.6nF",
+   "orig_part": "C440183",
+   "pick": {
+    "code": "C53987",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "4.7nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 1797728,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B472K500NT",
+    "value_delta_pct": 16.1,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "1kHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "1uF",
+   "orig_part": "C106248",
+   "pick": {
+    "code": "C15849",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "1uF ±10% 50V",
+    "diel": "X5R",
+    "volt": 50.0,
+    "stock": 5578824,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10A105KB8NNNC",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "2kHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "470nF",
+   "orig_part": "C513577",
+   "pick": {
+    "code": "C1623",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "470nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 350485,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B474KA8NNNC",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "5kHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "200nF",
+   "orig_part": "C3833176",
+   "pick": {
+    "code": "C21120",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "220nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 400496,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B224KA8NNNC",
+    "value_delta_pct": 10.0,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "10kHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "100nF",
+   "orig_part": "C14663",
+   "pick": {
+    "code": "C14663",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "100nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 21530062,
+    "brand": "YAGEO",
+    "mpn": "CC0603KRX7R9BB104",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": true,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "20kHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "1206",
+   "value": "51nF",
+   "orig_part": "C711044",
+   "pick": {
+    "code": "C1622",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "47nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 470082,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B473KB8NNNC",
+    "value_delta_pct": 7.8,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "50kHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "0805",
+   "value": "20nF",
+   "orig_part": "C17588990",
+   "pick": {
+    "code": "C21122",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "22nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 351563,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B223KB8NNNC",
+    "value_delta_pct": 10.0,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "100kHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "10nF",
+   "orig_part": "C85973",
+   "pick": {
+    "code": "C57112",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "10nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 1041614,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B103K500NT",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "200kHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "0805",
+   "value": "5.1nF",
+   "orig_part": "C710948",
+   "pick": {
+    "code": "C53987",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "4.7nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 1797728,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B472K500NT",
+    "value_delta_pct": 7.8,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "500kHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "2nF",
+   "orig_part": "C1870141",
+   "pick": {
+    "code": "C1604",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "2.2nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 1617642,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B222K500NT",
+    "value_delta_pct": 10.0,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "1MHz|C4": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "1nF",
+   "orig_part": "C77026",
+   "pick": {
+    "code": "C1588",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "1nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 2479819,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B102KB8NNNC",
+    "value_delta_pct": 0.0,
+    "match": "exact"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": false
+  },
+  "1kHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "0805",
+   "value": "2.7uF",
+   "orig_part": "C2171278",
+   "pick": {
+    "code": "C23630",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "2.2uF ±10% 16V",
+    "diel": "X5R",
+    "volt": 16.0,
+    "stock": 1067616,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10A225KO8NNNC",
+    "value_delta_pct": 18.5,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "2kHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "1.5uF",
+   "orig_part": "C361193",
+   "pick": {
+    "code": "C15849",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "1uF ±10% 50V",
+    "diel": "X5R",
+    "volt": 50.0,
+    "stock": 5578824,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10A105KB8NNNC",
+    "value_delta_pct": 33.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "5kHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "560nF",
+   "orig_part": "C282686",
+   "pick": {
+    "code": "C1623",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "470nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 350485,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B474KA8NNNC",
+    "value_delta_pct": 16.1,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "10kHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "270nF",
+   "orig_part": "C376826",
+   "pick": {
+    "code": "C21120",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "220nF ±10% 25V",
+    "diel": "X7R",
+    "volt": 25.0,
+    "stock": 400496,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B224KA8NNNC",
+    "value_delta_pct": 18.5,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "20kHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "150nF",
+   "orig_part": "C513735",
+   "pick": {
+    "code": "C14663",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "100nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 21530024,
+    "brand": "YAGEO",
+    "mpn": "CC0603KRX7R9BB104",
+    "value_delta_pct": 33.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "50kHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "1206",
+   "value": "56nF",
+   "orig_part": "C441752",
+   "pick": {
+    "code": "C1622",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "47nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 470082,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B473KB8NNNC",
+    "value_delta_pct": 16.1,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "100kHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "1206",
+   "value": "27nF",
+   "orig_part": "C162433",
+   "pick": {
+    "code": "C21122",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "22nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 351563,
+    "brand": "Samsung Electro-Mechanics",
+    "mpn": "CL10B223KB8NNNC",
+    "value_delta_pct": 18.5,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "200kHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "0805",
+   "value": "15nF",
+   "orig_part": "C445728",
+   "pick": {
+    "code": "C57112",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "10nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 1039124,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B103K500NT",
+    "value_delta_pct": 33.3,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": true,
+   "value_changed": true
+  },
+  "500kHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "5.6nF",
+   "orig_part": "C440183",
+   "pick": {
+    "code": "C53987",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "4.7nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 1797728,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B472K500NT",
+    "value_delta_pct": 16.1,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  },
+  "1MHz|C5": {
+   "chosen_fp": "0603",
+   "orig_fp": "0603",
+   "value": "2.7nF",
+   "orig_part": "C77034",
+   "pick": {
+    "code": "C1604",
+    "lib": "Basic",
+    "footprint": "0603",
+    "value": "2.2nF ±10% 50V",
+    "diel": "X7R",
+    "volt": 50.0,
+    "stock": 1617642,
+    "brand": "FH (Guangdong Fenghua Advanced Tech)",
+    "mpn": "0603B222K500NT",
+    "value_delta_pct": 18.5,
+    "match": "near"
+   },
+   "kind": "Basic",
+   "is_orig": false,
+   "fp_changed": false,
+   "value_changed": true
+  }
+ }
+}

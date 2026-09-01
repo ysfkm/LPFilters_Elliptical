@@ -1,0 +1,1022 @@
+{
+ "C106248": {
+  "productModel": "CC0603KRX7R7BB105",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 1uF 16V X7R 0603",
+  "stock": 836150
+ },
+ "C107067": {
+  "productModel": "CC0603KRX7R7BB684",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 680nF 16V X7R 0603",
+  "stock": 84350
+ },
+ "C107098": {
+  "productModel": "CC0603KRX7R9BB683",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 68nF 50V X7R 0603",
+  "stock": 941500
+ },
+ "C107186": {
+  "productModel": "CC1206KKX7R9BB224",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 220nF 50V X7R 1206",
+  "stock": 133520
+ },
+ "C128694": {
+  "productModel": "SMMS0630-220M",
+  "brand": "Shun Xiang Nuo",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,7.1x6.6mm",
+  "description": "FIXED IND 22uH 135mΩ SMD,6.6x7.1mm",
+  "stock": 204630
+ },
+ "C1322389": {
+  "productModel": "1206CG5R6C500NT",
+  "brand": "FH",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 5.6pF 50V C0G 1206",
+  "stock": 3600
+ },
+ "C145012": {
+  "productModel": "CC1206KKX7R9BB684",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 680nF 50V X7R 1206",
+  "stock": 51130
+ },
+ "C14663": {
+  "productModel": "CC0603KRX7R9BB104",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 100nF 50V X7R 0603",
+  "stock": 0
+ },
+ "C149599": {
+  "productModel": "SMMS1040-470M",
+  "brand": "Shun Xiang Nuo",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,11.5x10mm",
+  "description": "FIXED IND 47uH 3A 155mΩ SMD,11.5x10mm",
+  "stock": 75190
+ },
+ "C16194987": {
+  "productModel": "CL21B335KAFNFNE",
+  "brand": "Samsung Electro-Mechanics",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 3.3uF 25V X7R 0805",
+  "stock": 430
+ },
+ "C162241": {
+  "productModel": "GRM1885C1H682JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 6.8nF 50V C0G 0603",
+  "stock": 268750
+ },
+ "C162433": {
+  "productModel": "GRM3195C1H273JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 27nF 50V C0G 1206",
+  "stock": 3875
+ },
+ "C167222": {
+  "productModel": "FXL0630-8R2-M",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,7x6.6mm",
+  "description": "FIXED IND 8.2uH 5A 60mΩ SMD,6.6x7mm",
+  "stock": 20675
+ },
+ "C167223": {
+  "productModel": "FXL0630-100-M",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,7x6.6mm",
+  "description": "FIXED IND 10uH 4.5A 68mΩ SMD,6.6x7mm",
+  "stock": 430300
+ },
+ "C167949": {
+  "productModel": "FNR5020S201MT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,5x5mm",
+  "description": "FIXED IND 200uH 0.45A 2.6Ω SMD,5x5mm",
+  "stock": 2530
+ },
+ "C167989": {
+  "productModel": "FNR5040S392MT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,5x5mm",
+  "description": "FIXED IND 3900uH 0.115A 30.55Ω SMD,5x5mm",
+  "stock": 1585
+ },
+ "C167991": {
+  "productModel": "FNR5040S502MT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,5x5mm",
+  "description": "FIXED IND 5000uH 0.098A 43.16Ω SMD,5x5mm",
+  "stock": 1365
+ },
+ "C168078": {
+  "productModel": "FNR6045S150MT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 15uH 2.2A 0.088Ω SMD,6x6mm",
+  "stock": 130050
+ },
+ "C168095": {
+  "productModel": "FNR6045S101MT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 100uH 0.88A 0.563Ω SMD,6x6mm",
+  "stock": 157720
+ },
+ "C168102": {
+  "productModel": "FNR6045S102MT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 1000uH 0.35A 5.85Ω SMD,6x6mm",
+  "stock": 39380
+ },
+ "C168103": {
+  "productModel": "FNR6045S152MT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 1500uH 0.24A 8.45Ω SMD,6x6mm",
+  "stock": 7605
+ },
+ "C168104": {
+  "productModel": "FNR6045S222KT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 2200uH 0.2A 12.48Ω SMD,6x6mm",
+  "stock": 32740
+ },
+ "C168105": {
+  "productModel": "FNR6045S332KT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 3300uH 0.17A 15.96Ω SMD,6x6mm",
+  "stock": 2870
+ },
+ "C168153": {
+  "productModel": "FNR8040S152MT",
+  "brand": "cjiang",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,8x8mm",
+  "description": "FIXED IND 1500uH 0.27A 6.5Ω SMD,8x8mm",
+  "stock": 2800
+ },
+ "C17588990": {
+  "productModel": "GCM21B5C1H203FA16L",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": null,
+  "stock": 8855
+ },
+ "C18236328": {
+  "productModel": "YNR4030-501M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,4x4mm",
+  "description": "FIXED IND 500uH 9.027Ω SMD,4x4mm",
+  "stock": 2840
+ },
+ "C18236336": {
+  "productModel": "YNR6045-202K",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 2mH 12.35Ω SMD,6x6mm",
+  "stock": 1635
+ },
+ "C184799": {
+  "productModel": "GCM3195C2A103JA16D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 10nF 100V C0G 1206",
+  "stock": 13745
+ },
+ "C1870141": {
+  "productModel": "GCM1885C1H202FA16J",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 2nF 50V C0G 0603",
+  "stock": 24880
+ },
+ "C19190445": {
+  "productModel": "MNR6045S801MT",
+  "brand": "MetalLions",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 800uH 0.27A 4.81Ω SMD,6x6mm",
+  "stock": 3075
+ },
+ "C19632966": {
+  "productModel": "YPO5022-103M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,18.8x15.5mm",
+  "description": "FIXED IND 10mH 14.2Ω SMD,18.8x15.5mm",
+  "stock": 468
+ },
+ "C20416440": {
+  "productModel": "TCC0603COG361J500CT",
+  "brand": "CCTC",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 360pF 50V C0G 0603",
+  "stock": 3000
+ },
+ "C2045615": {
+  "_error": "null"
+ },
+ "C2045828": {
+  "productModel": "SRR1208-562KL",
+  "brand": "BOURNS",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12.7x12.7mm",
+  "description": "FIXED IND 5.6mH 250mA 12Ω SMD,12.7x12.7mm",
+  "stock": 14
+ },
+ "C2170901": {
+  "productModel": "C0805C182J5GACTU",
+  "brand": "KEMET",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": null,
+  "stock": 3990
+ },
+ "C2171278": {
+  "productModel": "C0805C275K8PACTU",
+  "brand": "KEMET",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 2.7uF 10V X5R 0805",
+  "stock": 15
+ },
+ "C22464216": {
+  "productModel": "SFE6045A-821M-F-HF",
+  "brand": "DDY",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 820uH 0.35A 4.45Ω SMD,6x6mm",
+  "stock": 1340
+ },
+ "C22470029": {
+  "productModel": "CGA0805C0G681J500HT",
+  "brand": "HRE",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 680pF 50V C0G 0805",
+  "stock": 8250
+ },
+ "C2455376": {
+  "productModel": "CDRH127/LDNP-181MC",
+  "brand": "Sumida",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD-4P,12x12mm",
+  "description": "FIXED IND 180uH 1.55A 230mΩ SMD-4P,12x12mm",
+  "stock": 2106
+ },
+ "C2681913": {
+  "productModel": "YNR8065-222M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,8x8mm",
+  "description": "FIXED IND 2.2mH 5Ω SMD,8x8mm",
+  "stock": 2954
+ },
+ "C277483": {
+  "productModel": "CC1206KKX7R9BB474",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 470nF 50V X7R 1206",
+  "stock": 156320
+ },
+ "C282682": {
+  "productModel": "TCC0603X7R334K500CT",
+  "brand": "CCTC",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 330nF 50V X7R 0603",
+  "stock": 410200
+ },
+ "C282686": {
+  "productModel": "TCC0603X7R564K500CT",
+  "brand": "CCTC",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 560nF 50V X7R 0603",
+  "stock": 23450
+ },
+ "C282844": {
+  "productModel": "TCC1206X7R155K500FT",
+  "brand": "CCTC",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 1.5uF 50V X7R 1206",
+  "stock": 12590
+ },
+ "C282852": {
+  "productModel": "TCC1206X7R225K500FT",
+  "brand": "CCTC",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 2.2uF 50V X7R 1206",
+  "stock": 475000
+ },
+ "C28323": {
+  "productModel": "CL21B105KBFNNNE",
+  "brand": "Samsung Electro-Mechanics",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 1uF 50V X7R 0805",
+  "stock": 0
+ },
+ "C2903126": {
+  "productModel": "NRSE8065-472M",
+  "brand": "KOHERelec",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,8x8mm",
+  "description": "FIXED IND 4.7mH 180mA SMD,8x8mm",
+  "stock": 635
+ },
+ "C2929112": {
+  "productModel": "FM31N562J251EEG",
+  "brand": "PSA",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 5.6nF 250V C0G 1206",
+  "stock": 1660
+ },
+ "C2983072": {
+  "productModel": "PSPHAQ127-820M",
+  "brand": "PROD Tech",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12x12mm",
+  "description": "FIXED IND 82uH 2.5A 160mΩ SMD,12x12mm",
+  "stock": 8475
+ },
+ "C2991647": {
+  "productModel": "1206B154K500NT",
+  "brand": "FH",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 150nF 50V X7R 1206",
+  "stock": 3140
+ },
+ "C3007703": {
+  "productModel": "SCD.7862.DLF132KT01",
+  "brand": "SOREDE",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,7.8x7mm",
+  "description": "FIXED IND 1.3mH 4.94Ω SMD,7x7.8mm",
+  "stock": 620
+ },
+ "C3007704": {
+  "productModel": "SCD.7862.DLF352KT01",
+  "brand": "SOREDE",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,7.8x7mm",
+  "description": "FIXED IND 3.5mH 13Ω SMD,7x7.8mm",
+  "stock": 135
+ },
+ "C30816": {
+  "productModel": "CL10C681JB8NNNC",
+  "brand": "Samsung Electro-Mechanics",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 680pF 50V C0G 0603",
+  "stock": 130100
+ },
+ "C342755": {
+  "productModel": "C3216C0G2J332JT000N",
+  "brand": "TDK",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 3.3nF 630V C0G 1206",
+  "stock": 3970
+ },
+ "C342962": {
+  "productModel": "C1608X5R1E335KT000E",
+  "brand": "TDK",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 3.3uF 25V X5R 0603",
+  "stock": 40280
+ },
+ "C343010": {
+  "productModel": "C2012C0G2E102JT000N",
+  "brand": "TDK",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 1nF 250V C0G 0805",
+  "stock": 16800
+ },
+ "C361193": {
+  "productModel": "C1608X7R1A155KT000E",
+  "brand": "TDK",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 1.5uF 10V X7R 0603",
+  "stock": 15710
+ },
+ "C37485": {
+  "productModel": "SMDRI127-102MT",
+  "brand": "Shun Xiang Nuo",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12.3x12.3mm",
+  "description": "FIXED IND 1mH 550mA 1.82Ω SMD,12.3x12.3mm",
+  "stock": 18365
+ },
+ "C376826": {
+  "productModel": "TCC0603X7R274K500CT",
+  "brand": "CCTC",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 270nF 50V X7R 0603",
+  "stock": 30300
+ },
+ "C3833176": {
+  "productModel": "0603B204K160CT",
+  "brand": "Walsin",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": null,
+  "stock": 21080
+ },
+ "C38332": {
+  "productModel": "0805B335K160NT",
+  "brand": "FH",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 3.3uF 16V X7R 0805",
+  "stock": 20410
+ },
+ "C385028": {
+  "productModel": "GRM1555C1H182JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0402",
+  "description": "CAP CER 1.8nF 50V C0G 0402",
+  "stock": 45860
+ },
+ "C3905119": {
+  "productModel": "GRM31C5C1E334GE01L",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 330nF 25V C0G 1206",
+  "stock": 1314
+ },
+ "C41413163": {
+  "productModel": "ZECD75-122K",
+  "brand": "ZE",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,7.8x7mm",
+  "description": "FIXED IND 1.2mH 270mA 3.6Ω SMD,7.8x7mm",
+  "stock": 900
+ },
+ "C436456": {
+  "productModel": "PSPCAQ75-222K",
+  "brand": "PROD Tech",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,7.8x7mm",
+  "description": "FIXED IND 2.2mH 260mA 4.85Ω SMD,7x7.8mm",
+  "stock": 2060
+ },
+ "C440183": {
+  "productModel": "GRM1885C1H562JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 5.6nF 50V C0G 0603",
+  "stock": 92200
+ },
+ "C440199": {
+  "productModel": "GRM3195C1H153JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 15nF 50V C0G 1206",
+  "stock": 2430
+ },
+ "C441752": {
+  "productModel": "GRM31C5C1H563JA01L",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 56nF 50V C0G 1206",
+  "stock": 1415
+ },
+ "C445728": {
+  "productModel": "C2012C0G1H153JT000N",
+  "brand": "TDK",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 15nF 50V C0G 0805",
+  "stock": 59400
+ },
+ "C458937": {
+  "productModel": "1206B184K500CT",
+  "brand": "Walsin",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 180nF 50V X7R 1206",
+  "stock": 1180
+ },
+ "C47018385": {
+  "productModel": "FP31X565K250EPG",
+  "brand": "PSA",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 5.6uF X7R 1206",
+  "stock": 1090
+ },
+ "C497846": {
+  "productModel": "YNR6045-472M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 4.7mH 120mA 19.75Ω SMD,6x6mm",
+  "stock": 3335
+ },
+ "C513577": {
+  "productModel": "CC0603KRX7R9BB474",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 470nF 50V X7R 0603",
+  "stock": 375000
+ },
+ "C513735": {
+  "productModel": "CC0603KRX7R9BB154",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 150nF 50V X7R 0603",
+  "stock": 85100
+ },
+ "C5156763": {
+  "productModel": "FS32X565K500EGG",
+  "brand": "PSA",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1210",
+  "description": "CAP CER 5.6uF 50V X7R 1210",
+  "stock": 120
+ },
+ "C519442": {
+  "productModel": "CC0603KRX7R7BB184",
+  "brand": "YAGEO",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 180nF 16V X7R 0603",
+  "stock": 26400
+ },
+ "C5278958": {
+  "productModel": "YPRH1209-272M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12x12mm",
+  "description": "FIXED IND 2700uH 3.45Ω SMD,12x12mm",
+  "stock": 228
+ },
+ "C5278959": {
+  "productModel": "YPRH1209-332M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12x12mm",
+  "description": "FIXED IND 3300uH 5.09Ω SMD,12x12mm",
+  "stock": 301
+ },
+ "C5278961": {
+  "productModel": "YPRH1209-682M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12x12mm",
+  "description": "FIXED IND 6800uH 9Ω SMD,12x12mm",
+  "stock": 489
+ },
+ "C5278962": {
+  "productModel": "YPRH1209-822M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12x12mm",
+  "description": "FIXED IND 8200uH 10Ω SMD,12x12mm",
+  "stock": 399
+ },
+ "C5278963": {
+  "productModel": "YPRH1209-103M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12x12mm",
+  "description": "FIXED IND 10000uH 13.5Ω SMD,12x12mm",
+  "stock": 210
+ },
+ "C5339362": {
+  "productModel": "XRCD32-390K",
+  "brand": "XR",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,3x2.1mm",
+  "description": "FIXED IND 39uH 355mA 850mΩ SMD,2.1x3mm",
+  "stock": 2980
+ },
+ "C5339399": {
+  "productModel": "XRCD105-332K",
+  "brand": "XR",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,9x5.4mm",
+  "description": "FIXED IND 3300uH 150mA 7.9Ω SMD,5.4x9mm",
+  "stock": 910
+ },
+ "C5343814": {
+  "productModel": "MS125-391MT",
+  "brand": "FH",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12.2x12.2mm",
+  "description": "FIXED IND 390uH 0.69Ω SMD-2P,12.2x12.2mm",
+  "stock": 1480
+ },
+ "C5343821": {
+  "productModel": "MS125-802MT",
+  "brand": "FH",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,12.2x12.2mm",
+  "description": "FIXED IND 8000uH 15Ω SMD-2P,12.2x12.2mm",
+  "stock": 685
+ },
+ "C5374161": {
+  "productModel": "SNR.6045.TYD132MT00",
+  "brand": "SOREDE",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 1300uH 0.23A 7.02Ω SMD,6x6mm",
+  "stock": 1345
+ },
+ "C5374163": {
+  "productModel": "SNR.6045.TYD202MT00",
+  "brand": "SOREDE",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 2000uH 0.18A 12.35Ω SMD,6x6mm",
+  "stock": 1460
+ },
+ "C5374400": {
+  "productModel": "SCD.5845.DYF122KT00",
+  "brand": "SOREDE",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,5.8x5.2mm",
+  "description": "FIXED IND 1200uH 6.4Ω SMD,5.8x5.2mm",
+  "stock": 1000
+ },
+ "C5375895": {
+  "productModel": "TCC0805COG361J500BT",
+  "brand": "CCTC",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 360pF 50V C0G 0805",
+  "stock": 7750
+ },
+ "C54426034": {
+  "productModel": "SNR.1050.TYD402MT00",
+  "brand": "SOREDE",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,10x10mm",
+  "description": null,
+  "stock": 790
+ },
+ "C5448973": {
+  "productModel": "TCC1206X7R564K500FT",
+  "brand": "CCTC",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 560nF 50V X7R 1206",
+  "stock": 2900
+ },
+ "C5632237": {
+  "productModel": "FM31N272J251EEG",
+  "brand": "PSA",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 2.7nF 250V C0G 1206",
+  "stock": 1740
+ },
+ "C694463": {
+  "productModel": "C3216C0G2E682JT000N",
+  "brand": "TDK",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 6.8nF 250V C0G 1206",
+  "stock": 1470
+ },
+ "C710898": {
+  "productModel": "GRM1885C1H362JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 3.6nF 50V C0G 0603",
+  "stock": 10580
+ },
+ "C710935": {
+  "productModel": "GRM2165C1H362JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": null,
+  "stock": 1420
+ },
+ "C710939": {
+  "productModel": "GRM2165C2A202JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 2nF 100V C0G 0805",
+  "stock": 4780
+ },
+ "C710948": {
+  "productModel": "GRM2195C1H512JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 5.1nF 50V C0G 0805",
+  "stock": 4450
+ },
+ "C711003": {
+  "productModel": "GRM3195C2A183JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": null,
+  "stock": 3105
+ },
+ "C711044": {
+  "productModel": "GRM31M5C1H513JA01L",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 51nF 50V C0G 1206",
+  "stock": 5375
+ },
+ "C724301": {
+  "productModel": "YNR6045-252M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,6x6mm",
+  "description": "FIXED IND 2.5mH 10.57Ω SMD,6x6mm",
+  "stock": 595
+ },
+ "C724304": {
+  "productModel": "YNR8040-821M",
+  "brand": "YJYCOIN",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,8x8mm",
+  "description": "FIXED IND 820uH 2.8Ω SMD,8x8mm",
+  "stock": 1485
+ },
+ "C76628": {
+  "productModel": "C2012C0G1H333JT000N",
+  "brand": "TDK",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 33nF 50V C0G 0805",
+  "stock": 13005
+ },
+ "C77026": {
+  "productModel": "GRM1885C1H102JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 1nF 50V C0G 0603",
+  "stock": 134300
+ },
+ "C77034": {
+  "productModel": "GRM1885C1H272JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 2.7nF 50V C0G 0603",
+  "stock": 26450
+ },
+ "C77036": {
+  "productModel": "GRM1885C1H332JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 3.3nF 50V C0G 0603",
+  "stock": 41000
+ },
+ "C77068": {
+  "productModel": "GRM2195C1H682JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 6.8nF 50V C0G 0805",
+  "stock": 36580
+ },
+ "C77084": {
+  "productModel": "GRM31C5C1H683JA01L",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 68nF 50V C0G 1206",
+  "stock": 5970
+ },
+ "C841559": {
+  "productModel": "NL1206B274K500CEDN",
+  "brand": "HUI JU",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 270nF 50V 1206",
+  "stock": 2040
+ },
+ "C85973": {
+  "productModel": "GRM1885C1H103JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0603",
+  "description": "CAP CER 10nF 50V C0G 0603",
+  "stock": 68320
+ },
+ "C91151": {
+  "productModel": "1206B105K101NT",
+  "brand": "FH",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 1uF 100V X7R 1206",
+  "stock": 747560
+ },
+ "C961369": {
+  "productModel": "CMLF0504-182KTT",
+  "brand": "Cybermax",
+  "type": "Fixed Inductors",
+  "parentType": "Inductors, Coils, Chokes",
+  "package": "SMD,5.8x5.2mm",
+  "description": "FIXED IND 1800uH 11.7Ω SMD,5.8x5.2mm",
+  "stock": 1460
+ },
+ "C97905": {
+  "productModel": "GRM2195C1H103JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "0805",
+  "description": "CAP CER 10nF 50V C0G 0805",
+  "stock": 86000
+ },
+ "C97930": {
+  "productModel": "GRM3195C1H333JA01D",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 33nF 50V C0G 1206",
+  "stock": 13230
+ },
+ "C97946": {
+  "productModel": "GRM31C5C1H104JA01L",
+  "brand": "muRata",
+  "type": "Ceramic Capacitors",
+  "parentType": "Capacitors",
+  "package": "1206",
+  "description": "CAP CER 100nF 50V C0G 1206",
+  "stock": 92590
+ }
+}
